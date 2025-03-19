@@ -20,4 +20,4 @@ When an array is created, the system searches for a contiguous block of memory t
 
 list doesnt need a sequence of free memory for its whole length. Instead, each element(node) is allocated separately. List element is a struct of value and adress(pointer) to the next element of list. nullptr is used to indicate the end of the list.
 
-![Linked List vs Array](images/linkedlist_vs_array.png)
+![Linked List vs Array](images/array_vs_list.png)
